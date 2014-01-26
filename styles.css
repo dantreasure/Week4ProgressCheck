@@ -1,0 +1,15 @@
+#tip{
+    width: 80%;
+    margin: 0 auto;
+}
+body{
+    background-color: #f4f8fa;
+}
+.input-group{
+	width:200px;
+}
+
+section{
+	width: 65%;
+	margin: 0 auto;
+}

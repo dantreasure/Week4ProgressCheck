@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Progress Check</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<script type="text/javascript" src="script.js"></script>
+	<script type="text/javascript" src="server.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Fran and Frank's Diner</h1>
+    </header>
+    <section>
+    	<h3>To Be Seated</h3>
+		<ul class="list-group"></ul>
+        <div class="jumbotron" id="tip-box">
+            <h3>Tip Calculator</h3>
+            <p>Enter the sub-total of your meal and click "Calculate" to determine your total with a tip.</p>
+            <div class="input-group">           
+	            <input type="number" class="form-control" id="sub-total"></input>
+	            <span class="input-group-btn">
+	            	<button class="btn btn-default" type="button" id="total-calculate">Calculate</button>
+	            </span> 
+	        </div>          
+            <h4>Total: <span id="total-amount"></span></h4>
+        </div>
+    </section>
+    <footer>
+        <nav>
+            
+        </nav>
+    </footer>
+</body>
+</html>
