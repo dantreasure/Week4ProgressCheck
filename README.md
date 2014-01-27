@@ -5,11 +5,11 @@ Contained in this file is what Fran and Frank hope will become their new home pa
 [Here is a link](http://bit.ly/fran-and-franks-diner) to how the finished site should look.
 
 1. Fork the project and clone it down on your computer.
-  *[How to Collaborate on GitHub](http://dev.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+- [How to Collaborate on GitHub](http://dev.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
 
 2. Add the dependencies for Twitter Bootstrap, and JQuery.
-  [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-  [Getting started with Twitter Bootstrap](http://getbootstrap.com/getting-started/)
+- [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
+- [Getting started with Twitter Bootstrap](http://getbootstrap.com/getting-started/)
 3. Link to the script.js and server.js files.
   [HTML <script> src Attribute](http://www.w3schools.com/tags/att_script_src.asp)
 4. Add an h2 element underneath the existing h1 that says "Serving the Salt Lake area since 2008".
