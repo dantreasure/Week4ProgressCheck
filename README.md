@@ -2,9 +2,7 @@ Week 4 Progress Check
 ==================
 Contained in this file is what Fran and Frank hope will become their new home page. Below are a list of tasks that cover the material we've gone over for the past three weeks. If you feel uncomfortable with any of these please see the learning resources under the task for help.
 
-Here is a (http://bit.ly/fran-and-franks-diner)[link] to how the finished site should look. 
-
-##Tasks
+[Here is a link](http://bit.ly/fran-and-franks-diner) to how the finished site should look.
 
 1. Fork the project and clone it down on your computer.
 
