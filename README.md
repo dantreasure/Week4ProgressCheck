@@ -11,7 +11,7 @@ Contained in this file is what Fran and Frank hope will become their new home pa
  - [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
  - [Getting started with Twitter Bootstrap](http://getbootstrap.com/getting-started/)
 3. Link to the script.js and server.js files.
- - [HTML <script> src Attribute](http://www.w3schools.com/tags/att_script_src.asp)
+ - [HTML script src Attribute](http://www.w3schools.com/tags/att_script_src.asp)
 4. Add an h2 element underneath the existing h1 that says "Serving the Salt Lake area since 2008".
  - [More about headings from Codecademy](http://www.codecademy.com/courses/web-beginner-en-HZA3b/1/2?curriculum_id=50579fb998b470000202dc8b)
 5. Have the link to the "SLC Kitchen Collective" open in a new tab or window.
