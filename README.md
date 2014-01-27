@@ -19,3 +19,4 @@ Contained in this file is what Fran and Frank hope will become their new home pa
 7. Pop a name off the waitlsit array in the asssing_to_table function in script.js and remove the li with their id.
 
 8. Grab the total of the purchase text field on click and add a tip of 20% and put the new total in the sub-total span.
+9.  Push your changes up to your Github.
