@@ -8,8 +8,39 @@ body{
 .input-group{
 	width:200px;
 }
+.top-links{
+	margin-right: 10px;
+}
+nav a{
+	margin: 0 10 0 10;
+}
 
 section{
 	width: 65%;
 	margin: 0 auto;
+}
+header{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+#title{
+	text-align: center;
+}
+#subtitle{
+	text-align: center;
+}
+footer{
+	margin-left: 20px;
+	position: fixed;
+	bottom: 0;
+}
+	footer ul{
+		padding-left: 0px;
+	}
+ul{
+	list-style-type: none;
+}
+.list-group{
+	width: 150px;
 }
