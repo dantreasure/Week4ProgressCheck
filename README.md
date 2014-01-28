@@ -6,7 +6,6 @@ Contained in this file is what Fran and Frank hope will become their new home pa
 
 1. Fork the project and clone it down on your computer.
  - [How to Collaborate on GitHub](http://dev.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
-
 2. Add the dependencies for Twitter Bootstrap, and JQuery.
  - [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
  - [Getting started with Twitter Bootstrap](http://getbootstrap.com/getting-started/)
